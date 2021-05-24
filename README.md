@@ -32,7 +32,7 @@ It seems pretty interesting and useful, especially if the goal is to generate re
 
 ## git diff
 
-I went back to [Page 2.2 of the book] because I had created some modifications that weren't yet committed, so this gave me an opportunity to experiment with the `diff` command.
+I went back to [Page 2.2 of the book](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) because I had created some modifications that weren't yet committed, so this gave me an opportunity to experiment with the `diff` command.
 
 [![asciicast](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu.svg)](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu)
 *changes to `rec.sh` and `run.sh` are highlighted:*  
