@@ -17,3 +17,7 @@ However, let's start with the journal entries here in this file.
 I think it would be a good idea to add this to my `run.sh` file so that this information is printed to the console when the repl is run.
 
 More commands can be added later.
+
+[![asciicast](https://asciinema.org/a/ksthInjnkifWKpITxsBu0OZbB.svg)](https://asciinema.org/a/ksthInjnkifWKpITxsBu0OZbB)
+*video available, click image to open*
+
