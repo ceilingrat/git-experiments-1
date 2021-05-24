@@ -26,6 +26,14 @@ More commands can be added later.
 [![asciicast](https://asciinema.org/a/ksthInjnkifWKpITxsBu0OZbB.svg)](https://asciinema.org/a/ksthInjnkifWKpITxsBu0OZbB)
 *video available, click image to open*
 
+## git diff
+
+[Page 2.2 of the book](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) Introduced the `diff` command.
+
+[![asciicast](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu.svg)](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu)
+*changes to `rec.sh` and `run.sh` are highlighted:*  
+*red for deletions, green for additions*
+
 ## git log
 
 [Page 2.3 of the book](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) introduces the `log` command for viewing the history of commits.
@@ -34,11 +42,3 @@ It seems pretty interesting and useful, especially if the goal is to generate re
 
 [![asciicast](https://asciinema.org/a/mSO0Dp2Q199btUlVAF0YLJCJu.svg)](https://asciinema.org/a/mSO0Dp2Q199btUlVAF0YLJCJu)
 *producing a report with custom formatted output*
-
-## git diff
-
-I went back to [Page 2.2 of the book](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) because I had created some modifications that weren't yet committed, so this gave me an opportunity to experiment with the `diff` command.
-
-[![asciicast](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu.svg)](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu)
-*changes to `rec.sh` and `run.sh` are highlighted:*  
-*red for deletions, green for additions*
