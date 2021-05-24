@@ -10,6 +10,11 @@ If this file gets too cluttered, I will make additional `.md` files, and potenti
 
 However, let's start with the journal entries here in this file.
 
+## command reference
+Since the replit environment doesn't gave man entries, I can't get help at the command-line.
+
+Instead, I should use the [online reference docs](https://git-scm.com/docs).
+
 ## git settings
 
 [Page 1.6 of the book](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) introduces configuration of git and describes how to check your git configuration.
