@@ -10,6 +10,11 @@ If this file gets too cluttered, I will make additional `.md` files, and potenti
 
 However, let's start with the journal entries here in this file.
 
+## command reference
+Since the replit environment doesn't gave man entries, I can't get help at the command-line.
+
+Instead, I should use the [online reference docs](https://git-scm.com/docs).
+
 ## git settings
 
 [Page 1.6 of the book](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup) introduces configuration of git and describes how to check your git configuration.
@@ -21,3 +26,19 @@ More commands can be added later.
 [![asciicast](https://asciinema.org/a/ksthInjnkifWKpITxsBu0OZbB.svg)](https://asciinema.org/a/ksthInjnkifWKpITxsBu0OZbB)
 *video available, click image to open*
 
+## git diff
+
+[Page 2.2 of the book](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) Introduced the `diff` command.
+
+[![asciicast](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu.svg)](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu)
+*changes to `rec.sh` and `run.sh` are highlighted:*  
+*red for deletions, green for additions*
+
+## git log
+
+[Page 2.3 of the book](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) introduces the `log` command for viewing the history of commits.
+
+It seems pretty interesting and useful, especially if the goal is to generate reports of some kind.
+
+[![asciicast](https://asciinema.org/a/mSO0Dp2Q199btUlVAF0YLJCJu.svg)](https://asciinema.org/a/mSO0Dp2Q199btUlVAF0YLJCJu)
+*producing a report with custom formatted output*
