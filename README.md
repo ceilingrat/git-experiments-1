@@ -27,5 +27,5 @@ More commands can be added later.
 
 It seems pretty interesting and useful, especially if the goal is to generate reports of some kind.
 
-[![asciicast](https://asciinema.org/a/8PkbU9kYzLkpuXQ5O09fO6kND.svg)](https://asciinema.org/a/8PkbU9kYzLkpuXQ5O09fO6kND)
+[![asciicast](https://asciinema.org/a/mSO0Dp2Q199btUlVAF0YLJCJu.svg)](https://asciinema.org/a/mSO0Dp2Q199btUlVAF0YLJCJu)
 *producing a report with custom formatted output*
