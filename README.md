@@ -29,3 +29,11 @@ It seems pretty interesting and useful, especially if the goal is to generate re
 
 [![asciicast](https://asciinema.org/a/mSO0Dp2Q199btUlVAF0YLJCJu.svg)](https://asciinema.org/a/mSO0Dp2Q199btUlVAF0YLJCJu)
 *producing a report with custom formatted output*
+
+## git diff
+
+I went back to [Page 2.2 of the book] because I had created some modifications that weren't yet committed, so this gave me an opportunity to experiment with the `diff` command.
+
+[![asciicast](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu.svg)](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu)
+*changes to `rec.sh` and `run.sh` are highlighted:*  
+*red for deletions, green for additions*
