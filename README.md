@@ -21,3 +21,11 @@ More commands can be added later.
 [![asciicast](https://asciinema.org/a/ksthInjnkifWKpITxsBu0OZbB.svg)](https://asciinema.org/a/ksthInjnkifWKpITxsBu0OZbB)
 *video available, click image to open*
 
+## git log
+
+[Page 2.3 of the book](https://git-scm.com/book/en/v2/Git-Basics-Viewing-the-Commit-History) introduces the `log` command for viewing the history of commits.
+
+It seems pretty interesting and useful, especially if the goal is to generate reports of some kind.
+
+[![asciicast](https://asciinema.org/a/8PkbU9kYzLkpuXQ5O09fO6kND.svg)](https://asciinema.org/a/8PkbU9kYzLkpuXQ5O09fO6kND)
+*producing a report with custom formatted output*
