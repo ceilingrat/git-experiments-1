@@ -14,4 +14,4 @@ fi
 
 export ASCIINEMA_CONFIG_HOME=$HOME/.config/asciinema
 
-asciinema rec
+asciinema rec -c ./run.sh
