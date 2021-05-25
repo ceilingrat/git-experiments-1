@@ -23,14 +23,14 @@ I think it would be a good idea to add this to my `run.sh` file so that this inf
 
 More commands can be added later.
 
-[![asciicast](https://asciinema.org/a/ksthInjnkifWKpITxsBu0OZbB.svg)](https://asciinema.org/a/ksthInjnkifWKpITxsBu0OZbB)
+[![asciicast](https://asciinema.org/a/ksthInjnkifWKpITxsBu0OZbB.svg)](https://asciinema.org/a/ksthInjnkifWKpITxsBu0OZbB)  
 *video available, click image to open*
 
 ## git diff
 
 [Page 2.2 of the book](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) Introduced the `diff` command.
 
-[![asciicast](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu.svg)](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu)
+[![asciicast](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu.svg)](https://asciinema.org/a/F7IVvIAzmTIU6egBZxUCxpULu)  
 *changes to `rec.sh` and `run.sh` are highlighted:*  
 *red for deletions, green for additions*
 
@@ -40,5 +40,11 @@ More commands can be added later.
 
 It seems pretty interesting and useful, especially if the goal is to generate reports of some kind.
 
-[![asciicast](https://asciinema.org/a/mSO0Dp2Q199btUlVAF0YLJCJu.svg)](https://asciinema.org/a/mSO0Dp2Q199btUlVAF0YLJCJu)
+[![asciicast](https://asciinema.org/a/mSO0Dp2Q199btUlVAF0YLJCJu.svg)](https://asciinema.org/a/mSO0Dp2Q199btUlVAF0YLJCJu)  
 *producing a report with custom formatted output*
+
+[![asciicast](https://asciinema.org/a/cMXoIfYhhW6Z2IY9YR9KO8jvo.svg)](https://asciinema.org/a/cMXoIfYhhW6Z2IY9YR9KO8jvo)  
+*`graph` option shows branches being merged* 
+
+[![asciicast](https://asciinema.org/a/4vJQKzp3LcTLmhX6Y790NWpLk.svg)](https://asciinema.org/a/4vJQKzp3LcTLmhX6Y790NWpLk)  
+*`-S` parameter searching for a line of code, and `patch` parameter shows the diff*
